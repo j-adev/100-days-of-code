@@ -1,30 +1,35 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode - #100DiasDeCodigo
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 11 2022, Monday
+### Día 0: Lunes 11 de julio de 2022
+##### Starting The Odin Project (Again)
+##### Empezando The Odin Project (Again)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Started over again on [TOP](https://www.theodinproject.com/).
+**Progreso diario**: Volví a comenzar en [TOP](https://www.theodinproject.com/).
 
 
-### Day 1: June 27, Monday
+### Day 1: July 12 2022, Tuesday
+### Día 1: Martes 12 de julio de 2022
+##### Installing [VirtualBox](https://download.virtualbox.org/virtualbox/6.1.34/VirtualBox-6.1.34a-150636-Win.exe) and [Xubuntu](https://cdimages.ubuntu.com/xubuntu/releases/22.04/release/xubuntu-22.04-desktop-amd64.iso)
+##### Instalando [VirtualBox](https://download.virtualbox.org/virtualbox/6.1.34/VirtualBox-6.1.34a-150636-Win.exe) y [Xubuntu](https://cdimages.ubuntu.com/xubuntu/releases/22.04/release/xubuntu-22.04-desktop-amd64.iso)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Installed Virtualbox and Xubuntu with VSCode and Chrome.
+**Progreso Diario**: Instalé Virtualbox y Xubuntu con VSCode y Chrome.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Details**: Repaired full size lightdm login window following [this article](https://www.nakivo.com/blog/make-virtualbox-full-screen/) and [this article](https://askubuntu.com/questions/1092699/how-to-adjust-display-settings-for-lightdm-greeter-on-18-04).
+**Detalles**: Reparé la disposición de la ventana de inicio de sesión de lightdm siguiendo [este artículo](https://www.nakivo.com/blog/make-virtualbox-full-screen/) y [este otro artículo](https://askubuntu.com/questions/1092699/how-to-adjust-display-settings-for-lightdm-greeter-on-18-04).
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 2: June 13 2022, Wednesday
+### Day 2: Miércoles 13 de junio de 2022
+#### The bash console
+#### La consola bash
+
+**Today's Progress**: The Unix Shell(https://swcarpentry.github.io/shell-novice/).
+**Progreso Diario**: La consola Unix(https://swcarpentry.github.io/shell-novice/).
+
+**Details**: Starting to know some new commands like wc (wordcount) and pipes and redirections.
+**Detalles**: Aprendiendo algunos comandos desconocidos como wc (wordcount) y tuberías y redirecciones >, >>, |
+
+<!-- **Link(s) to work** -->
