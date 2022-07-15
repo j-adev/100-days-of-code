@@ -22,14 +22,16 @@
 
 
 ### Day 2: June 13 2022, Wednesday
-### Day 2: Miércoles 13 de junio de 2022
 #### The bash console
-#### La consola bash
 
-**Today's Progress**: The Unix Shell(https://swcarpentry.github.io/shell-novice/).
-**Progreso Diario**: La consola Unix(https://swcarpentry.github.io/shell-novice/).
-
+**Today's Progress**: Virtualbox VM cloning, The Unix Shell(https://swcarpentry.github.io/shell-novice/).
 **Details**: Starting to know some new commands like wc (wordcount) and pipes and redirections.
-**Detalles**: Aprendiendo algunos comandos desconocidos como wc (wordcount) y tuberías y redirecciones >, >>, |
 
-<!-- **Link(s) to work** -->
+### Day 3: June 14 2022, Thursday
+#### The bash console, git, github
+
+**Today's Progress**: Continue with The Unix Shell(https://swcarpentry.github.io/shell-novice/).
+**Details**: Continuying to get known with some new commands from the bash. Installed and configured git, some videos on it
+
+### Day 4: June 15 2022, Wednesday
+### Day 3: Miércoles 15 de junio de 2022
